@@ -295,9 +295,13 @@
       },
     {
         "id": "0282e0e58a5c404fbd15261f11c2ab6a",
-        "name": "John L. Brooks",
-        "image": "https://example.com/gordon-ramsay.jpg",
+        "name": "Christopher Barlee",
+        "image": "https://media.istockphoto.com/id/1464646161/photo/a-cook-with-her-arms-crossed.jpg?b=1&s=170667a&w=0&k=20&c=dKRU8zzKxyLRbF56eldlX4wBoKJZnpWKGZ5MA2z363Q=",
         "chefs_id": "4",
+        "experience": 12,
+        "_recipes": 23,
+        "likes": 190,
+        "bio":"Christopher Barlee is an accomplished chef with over two decades of experience in the culinary world. He has a passion for modern British cuisine and sustainable cooking practices, striving to create dishes that not only taste great but also have a positive impact on the environment. Barlee has worked in a variety of roles within the hospitality industry, including executive chef and culinary consultant. He is dedicated to using locally sourced ingredients and reducing food waste, while also incorporating innovative cooking techniques to push the boundaries of traditional cuisine.",
         "recipes": [
        
           {
