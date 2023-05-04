@@ -368,9 +368,14 @@
       },
     {
         "id": "0282e0e58a5c404fbd15261f11c2ab6a",
-        "name": "John L. Brooks",
-        "image": "https://example.com/gordon-ramsay.jpg",
+        "name": "Lightfoot Alexis",
+        "image": "https://media.istockphoto.com/id/1298088270/photo/young-beautiful-smiling-woman-chef-with-arms-crossed-at-kitchen.jpg?b=1&s=170667a&w=0&k=20&c=ipTCbxl_uVkSR9fnU2K1tdgXkRbxIiKgjdCswi4rHmg=",
+        "gender": "Female",
         "chefs_id": "5",
+        "experience": 9,
+        "_recipes": 25,
+        "likes": 296,
+        "bio":"Lightfoot Alexis is a chef and food blogger based in the United States. She is known for her plant-based recipes and vegan lifestyle content, which she shares on her popular Instagram page and blog. Lightfoot's approach to cooking is centered around creating healthy, delicious meals that are accessible and easy to prepare. She is also a wellness advocate, promoting the benefits of a plant-based diet and lifestyle. Through her online platform, Lightfoot has built a large following and is considered a leading voice in the vegan and plant-based community.", 
         "recipes": [
           {
             "name": "Pad Thai",
