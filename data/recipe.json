@@ -449,9 +449,13 @@
       },
     {
         "id": "0282e0e58a5c404fbd15261f11c2ab6a",
-        "name": "John L. Brooks",
-        "image": "https://example.com/gordon-ramsay.jpg",
+        "name": "Wadham Riley",
+        "image": "https://media.istockphoto.com/id/607751276/photo/happy-man-with-blue-apron.jpg?b=1&s=170667a&w=0&k=20&c=SUnrH1eolhXHL-Ue0VO-oHnQ2acZvOVmd5fhnOSHqds=",
         "chefs_id": "6",
+        "experience": 13,
+        "_recipes": 47,
+        "likes": 450,
+        "bio":"Wadham Riley is a chef and food blogger based in the United States. She is known for her plant-based recipes and vegan lifestyle content, which she shares on her popular Instagram page and blog. Lightfoot's approach to cooking is centered around creating healthy, delicious meals that are accessible and easy to prepare. She is also a wellness advocate, promoting the benefits of a plant-based diet and lifestyle. Through her online platform, Lightfoot has built a large following and is considered a leading voice in the vegan and plant-based community.",
         "recipes": [
           {
             "name": "Pla Plao",
