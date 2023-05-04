@@ -2,73 +2,57 @@
     {
         "id": "1",
         "name": "John L. Brooks",
-        "image": "https://i.pinimg.com/564x/46/6a/65/466a656fc3ac34236780c0d85a345b3c.jpg",
+        "image": "https://cdn.pixabay.com/photo/2019/11/14/11/10/chef-4625935_960_720.jpg",
         "gender": "Male",
-        "experience": 10,
-        "recipes": 35,
-        "likes": 250
+        "experience": 11,
+        "_recipes": 4,
+        "likes": 210
     },
     {
         "id": "2",
         "name": "Deborah N. Seymour",
-        "image": "https://i.pinimg.com/564x/a7/f1/72/a7f172e638da2d2cb36650e004042218.jpg",
+        "image": "https://cdn.pixabay.com/photo/2013/10/17/14/11/cook-196932_960_720.jpg",
         "gender": "Female",
-        "experience": 9,
-        "recipes": 30,
-        "likes": 150
+        "experience": 10,
+        "recipes": 29,
+        "likes": 160
     },
     {
         "id": "3",
         "name": "Jordan Lansell",
-        "image": "https://i.pinimg.com/564x/8d/66/b4/8d66b4c91d177f94e6531b223fa41b1d.jpg",
+        "image": "https://cdn.pixabay.com/photo/2015/08/16/12/38/man-890885_960_720.jpg",
         "gender": "Male",
-        "experience": 15,
-        "recipes": 45,
-        "likes": 256
+        "experience": 13,
+        "recipes": 40,
+        "likes": 250
     },
     {
         "id": "4",
         "name": "Christopher Barlee",
-        "image": "https://i.pinimg.com/564x/d2/35/47/d2354797cfb995122e8bf0248cb1fd76.jpg",
+        "image": "https://media.istockphoto.com/id/1464646161/photo/a-cook-with-her-arms-crossed.jpg?b=1&s=170667a&w=0&k=20&c=dKRU8zzKxyLRbF56eldlX4wBoKJZnpWKGZ5MA2z363Q=",
         "gender": "Male",
         "experience": 12,
-        "recipes": 25,
-        "likes": 180
+        "recipes": 23,
+        "likes": 190
     },
     {
         "id": "5",
-        "name": "Alexis Lightfoot",
-        "image": "https://i.pinimg.com/564x/de/48/f1/de48f11e1352ecb04af5e709015d47c2.jpg",
+        "name": "Lightfoot Alexis",
+        "image": "https://media.istockphoto.com/id/1298088270/photo/young-beautiful-smiling-woman-chef-with-arms-crossed-at-kitchen.jpg?b=1&s=170667a&w=0&k=20&c=ipTCbxl_uVkSR9fnU2K1tdgXkRbxIiKgjdCswi4rHmg=",
         "gender": "Female",
-        "experience": 11,
-        "recipes": 45,
-        "likes": 226
+        "experience": 9,
+        "recipes": 25,
+        "likes": 296
     },
+   
     {
         "id": "6",
-        "name": "Audrey Lapsley",
-        "image": "https://i.pinimg.com/564x/5f/9c/91/5f9c91fc2df3edb394de5aa2dd51e408.jpg",
-        "gender": "Female",
-        "experience": 10,
-        "recipes": 35,
-        "likes": 189
-    },
-    {
-        "id": "7",
-        "name": "Riley Wadham",
-        "image": "https://i.pinimg.com/564x/f6/f4/f3/f6f4f3606e3b6b22b863a029c50d45e8.jpg",
+        "name": "Wadham Riley",
+        "image": "https://media.istockphoto.com/id/607751276/photo/happy-man-with-blue-apron.jpg?b=1&s=170667a&w=0&k=20&c=SUnrH1eolhXHL-Ue0VO-oHnQ2acZvOVmd5fhnOSHqds=",
         "gender": "Male",
         "experience": 13,
         "recipes": 47,
         "likes": 450
-    },
-    {
-        "id": "8",
-        "name": "Makayla Imlay",
-        "image": "https://i.pinimg.com/564x/8c/79/ad/8c79ad83c69ceda5379e9e3dee683e43.jpg",
-        "gender": "Female",
-        "experience": 12,
-        "recipes": 38,
-        "likes": 249
     }
+  
 ]
