@@ -90,9 +90,13 @@
       },
     {
         "id": "0282e0e58a5c404fbd15261f11c2ab6a",
-        "name": "John L. Brooks",
-        "image": "https://example.com/gordon-ramsay.jpg",
+        "name": "Ian Kittichai",
+        "image": "https://cdn.pixabay.com/photo/2013/10/17/14/11/cook-196932_960_720.jpg  ",
         "chefs_id": "2",
+        "experience": 10,
+        "_recipes": 29,
+        "bio":"Ian Kittichai, a culinary expert, is ranked second among the top ten Thai cooks. He is a gourmet expert, inventor, and TV personality who has won several awards. He constantly pushes the boundaries of foods and customs with his vast collection of restaurants, cookbooks, events, and consulting all over the globe.",
+        "likes": 160,
         "recipes": [
           {
             "name": "Khao Kluk Kapi",
