@@ -181,9 +181,13 @@
       },
     {
         "id": "0282e0e58a5c404fbd15261f11c2ab6a",
-        "name": "John L. Brooks",
-        "image": "https://example.com/gordon-ramsay.jpg",
+        "name": "Apirawat Chaopo",
+        "image": "https://cdn.pixabay.com/photo/2015/08/16/12/38/man-890885_960_720.jpg",
         "chefs_id": "3",
+        "experience": 13,
+        "_recipes": 40,
+        "likes": 250,
+        "bio":"Chef Mai spent three years at Mandarin Oriental Bangkok's Le Normandie, honing his skills under the guidance of three Michelin-starred chefs. His passion for food and other culinary methods sprang from this. Everything on the platter, he believes, must be edible, gorgeous, and delightful.",
         "recipes": [
           {
             "name": "Chickpea & Potato Curry with Rice",
